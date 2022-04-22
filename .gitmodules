@@ -7,3 +7,6 @@
 [submodule "aosp/external/flatbuffers"]
 	path = aosp/external/flatbuffers
 	url = https://android.googlesource.com/platform/external/flatbuffers
+[submodule "chromium/platform/crosvm"]
+	path = chromium/platform/crosvm
+	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
