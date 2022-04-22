@@ -1,0 +1,9 @@
+[submodule "aosp/device/generic/vulkan-cereal"]
+	path = aosp/device/generic/vulkan-cereal
+	url = https://android.googlesource.com/device/generic/vulkan-cereal
+[submodule "aosp/external/gfxstream-protocols"]
+	path = aosp/external/gfxstream-protocols
+	url = https://android.googlesource.com/platform/external/gfxstream-protocols
+[submodule "aosp/external/flatbuffers"]
+	path = aosp/external/flatbuffers
+	url = https://android.googlesource.com/platform/external/flatbuffers
