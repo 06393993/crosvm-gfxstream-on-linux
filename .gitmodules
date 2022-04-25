@@ -10,3 +10,6 @@
 [submodule "chromium/platform/crosvm"]
 	path = chromium/platform/crosvm
 	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
+[submodule "aosp/device/generic/goldfish-opengl"]
+	path = aosp/device/generic/goldfish-opengl
+	url = https://android.googlesource.com/device/generic/goldfish-opengl
